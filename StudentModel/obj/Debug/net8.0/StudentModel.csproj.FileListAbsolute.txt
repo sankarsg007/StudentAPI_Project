@@ -1,0 +1,11 @@
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\bin\Debug\net8.0\StudentModel.deps.json
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\bin\Debug\net8.0\StudentModel.dll
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\bin\Debug\net8.0\StudentModel.pdb
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\obj\Debug\net8.0\StudentModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\obj\Debug\net8.0\StudentModel.AssemblyInfoInputs.cache
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\obj\Debug\net8.0\StudentModel.AssemblyInfo.cs
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\obj\Debug\net8.0\StudentModel.csproj.CoreCompileInputs.cache
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\obj\Debug\net8.0\StudentModel.dll
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\obj\Debug\net8.0\refint\StudentModel.dll
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\obj\Debug\net8.0\StudentModel.pdb
+C:\Users\sankaran\source\repos\StudentAPI\StudentModel\obj\Debug\net8.0\ref\StudentModel.dll

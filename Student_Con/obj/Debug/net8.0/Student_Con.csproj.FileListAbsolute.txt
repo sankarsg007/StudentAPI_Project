@@ -1,0 +1,14 @@
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\bin\Debug\net8.0\Student_Con.exe
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\bin\Debug\net8.0\Student_Con.deps.json
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\bin\Debug\net8.0\Student_Con.runtimeconfig.json
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\bin\Debug\net8.0\Student_Con.dll
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\bin\Debug\net8.0\Student_Con.pdb
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\Student_Con.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\Student_Con.AssemblyInfoInputs.cache
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\Student_Con.AssemblyInfo.cs
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\Student_Con.csproj.CoreCompileInputs.cache
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\Student_Con.dll
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\refint\Student_Con.dll
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\Student_Con.pdb
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\Student_Con.genruntimeconfig.cache
+C:\Users\sankaran\source\repos\StudentAPI\Student_Con\obj\Debug\net8.0\ref\Student_Con.dll
